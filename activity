@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="MyBill - Simple and smart personal finance assistant. Manage your budget, track expenses, and keep your data 100% local and private.">
+  <title>MyBill - Personal Finance App</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f7f9fc;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: #4a90e2;
+      color: #fff;
+      text-align: center;
+      padding: 60px 20px;
+    }
+    header h1 {
+      margin: 0 0 10px;
+      font-size: 2.5em;
+    }
+    header p {
+      font-size: 1.2em;
+    }
+    header a.button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background: #fff;
+      color: #4a90e2;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 6px;
+    }
+    section {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h2 {
+      color: #4a90e2;
+      margin-top: 40px;
+    }
+    .features {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    .feature {
+      flex: 1 1 250px;
+      background: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+    }
+    .feature h3 {
+      margin-top: 0;
+      color: #4a90e2;
+    }
+    footer {
+      background: #333;
+      color: #fff;
+      text-align: center;
+      padding: 30px 20px;
+      margin-top: 40px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>MyBill</h1>
+    <p>Simple and smart personal finance assistant. Track your budget and expenses while keeping all your data 100% private.</p>
+    <a href="#" class="button">Download on App Store</a>
+  </header>
+
+  <section>
+    <h2>Core Features</h2>
+    <div class="features">
+      <div class="feature">
+        <h3>Quick Entries</h3>
+        <p>Record expenses and income in just 3 seconds. Customizable categories and icons to suit your personal style.</p>
+      </div>
+      <div class="feature">
+        <h3>Data Visualization</h3>
+        <p>Clear charts and graphs to understand your spending trends. View reports by month or year and analyze your habits.</p>
+      </div>
+      <div class="feature">
+        <h3>Budget Management</h3>
+        <p>Set flexible monthly budgets, receive real-time notifications, and smart alerts to prevent overspending.</p>
+      </div>
+      <div class="feature">
+        <h3>Privacy First</h3>
+        <p>All data is stored locally on your device. No data is uploaded or shared. Fully offline and secure.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>App Highlights</h2>
+    <ul>
+      <li>🎨 Beautiful and intuitive interface</li>
+      <li>🌍 Multi-language support: English, Chinese, Japanese, Korean, etc.</li>
+      <li>📱 Fully compatible with iPhone and iPad</li>
+      <li>🚀 Fast startup and smooth performance</li>
+      <li>💾 Data is never lost; supports iCloud backup</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Subscription</h2>
+    <p>Enjoy a 7-day free trial, then upgrade for full access:</p>
+    <ul>
+      <li>Unlimited entries</li>
+      <li>Full budget management</li>
+      <li>Data export</li>
+      <li>Advanced statistics and reports</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Why Choose MyBill</h2>
+    <p>MyBill stands out for its simplicity and strong privacy protection. All your financial data stays on your device and is never uploaded to any server. Enjoy a safe and worry-free personal finance experience.</p>
+    <p>Perfect for beginners and advanced users alike, MyBill makes budgeting and expense tracking easy and enjoyable while keeping your privacy intact.</p>
+  </section>
+
+  <footer>
+    &copy; 2025 MyBill. All rights reserved.
+  </footer>
+
+</body>
+</html>
